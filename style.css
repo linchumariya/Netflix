@@ -1,0 +1,30 @@
+body{
+    background-image: url(image/background.jpg);
+height: 100vh
+}
+
+
+.login-top{
+    width:100vw;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+}
+.login-top img{
+    width:150px;
+}
+.login-box{
+    background-color: rgba(0, 0, 0, 0.474);
+    width:430px;
+    height: 680px;
+    border-radius: 5px;
+    padding: 50px;
+}
+.small-text{
+    font-size: 13px;
+}
+.form-control{
+    box-shadow:none !important;
+}
